@@ -1,0 +1,33 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "ibrahims-purple-course"
+  },
+  "course_image": {
+    "content": "",
+    "website": "ibrahims-purple-course"
+  },
+  "course_title": "ibrahims-purple-course",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "ibrahims-purple-course",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "ibrahims-purple-course",
+  "learning_resource_types": [],
+  "site_uid": "652b24a2-7fb7-4ab9-8158-be256e1b98ff",
+  "site_short_id": "ibrahims-purple-course"
+}
