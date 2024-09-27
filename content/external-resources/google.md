@@ -5,6 +5,6 @@ external_url: google.com
 has_external_license_warning: true
 is_broken: ''
 license: https://en.wikipedia.org/wiki/All_rights_reserved
-title: google
-uid: b8e165bd-3f45-4aea-aa40-8ff6860764f3
+title: Google
+uid: be06ed36-9208-41b7-bc88-f1ebe116fbe4
 ---
