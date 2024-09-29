@@ -27,9 +27,7 @@
   ],
   "extra_course_numbers": "",
   "primary_course_number": "ibrahims-purple-course",
-  "learning_resource_types": [
-    "Activity Assignments"
-  ],
-  "site_uid": "11ff0c22-5b32-43e4-a58e-4b4703c16d6d",
+  "learning_resource_types": [],
+  "site_uid": "1b34d149-5f48-4c94-8116-157388ce9267",
   "site_short_id": "ibrahims-purple-course"
 }
