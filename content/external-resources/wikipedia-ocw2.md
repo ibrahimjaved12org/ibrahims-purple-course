@@ -6,5 +6,5 @@ license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: ''
 title: wikipedia ocw2
 uid: 8c8b489f-0015-4b30-8d5b-0ef04a1296e7
-wayback_url: ''
+wayback_url: https://web.archive.org/web/20241001184154/https://en.wikipedia.org/wiki/MIT_OpenCourseWare
 ---
